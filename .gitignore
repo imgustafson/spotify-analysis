@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos (arquivos grandes)
+data/*.csv
+data/*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
