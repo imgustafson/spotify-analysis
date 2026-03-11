@@ -70,5 +70,7 @@ jupyter notebook notebooks/analise.ipynb
 [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) — disponível no Kaggle.
 
 ---
+## 👩‍💻 Sobre
 
-Feito por [Isabella Macedo Gustafson](https://www.linkedin.com/in/isabella-macedo-gustafson)
+Desenvolvido por **Isabella Macedo Gustafson** — estudante de Bacharelado em Matemática Computacional na Universidade Federal Fluminense. 
+(Rio das Ostras, RJ)
