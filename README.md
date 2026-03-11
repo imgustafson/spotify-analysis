@@ -72,5 +72,6 @@ jupyter notebook notebooks/analise.ipynb
 ---
 ## 👩‍💻 Sobre
 
-Desenvolvido por **Isabella Macedo Gustafson** — estudante de Bacharelado em Matemática Computacional na Universidade Federal Fluminense. 
+Desenvolvido por **Isabella Macedo Gustafson**, estudante de Bacharelado em Matemática Computacional na Universidade Federal Fluminense. 
 (Rio das Ostras, RJ)
+
